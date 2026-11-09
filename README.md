@@ -2,6 +2,9 @@
 
 A modern Chrome extension that lets you copy any HTML element from any website with its computed styles, perfectly formatted for LLM consumption or code reuse.
 
+> [!TIP]
+> **Want to build your own apps with AI?** A free 7-day build challenge and 20+ step-by-step projects are in my free community: **[skool.com/raid](https://www.skool.com/raid)**
+
 ## Features
 
 - **Smart Hover Detection** - Hover over any element on any website to highlight it
